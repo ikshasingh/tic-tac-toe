@@ -1,0 +1,19 @@
+
+.square:hover{
+    background-color: rgb(17, 17, 69);
+    height: 155px;
+    width: 155px;
+}
+ .square {
+    background-color: rgb(2, 2, 61);
+    color: thistle;
+    border: rgb(156, 156, 173) solid 2px;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  font-size: 50px;
+  text-align: center;
+  line-height: 100px; /* vertically center text */
+  vertical-align: top;
+  box-sizing: border-box;
+}
